@@ -46,7 +46,7 @@ AIMonks Labs Assessment/
 
 ### 1. Clone the Repository
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Vaishak-S/AIMonk-Labs-Assessment.git
 cd "AIMonks Labs Assessment"
 ```
 
@@ -54,8 +54,8 @@ cd "AIMonks Labs Assessment"
 ### 2. (Optional) Local Python Setup
 If you want to run locally (not in Docker):
 ```sh
-python3 -m venv venv
-source venv/bin/activate
+python3 -m venv .venv
+source .venv/bin/activate (for linux/ubuntu) & .venv/Scripts/activate (for Windows)
 pip install -r app/requirements.txt
 uvicorn app.api.main:app --reload
 ```
