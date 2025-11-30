@@ -116,22 +116,16 @@ An image file containing car and a person.
   ]
 }
 ```
-
+------------------------------------------
 ## Samples:
-
-Input:
+------------------------------------------
 ![alt text](images/exp1-input.png)
-Output:
 ![alt text](images/exp1-output.png)
 ------------------------------------------
-Input:
 ![alt text](images/exp2-input.png)
-Output:
 ![alt text](images/exp2-output.png)
 ------------------------------------------
-Input:
 ![alt text](images/exp3-input.png)
-Output:
 ![alt text](images/exp3-output.png)
 ------------------------------------------
 
